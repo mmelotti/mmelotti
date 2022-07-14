@@ -3,6 +3,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmelotti)](https://github.com/anuraghazra/github-readme-stats)
 
+## My skills 📜
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmelotti" />
+</a>
+
 
 <!--
 **mmelotti/mmelotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
